@@ -24,7 +24,7 @@ aws configure
 ```
 For more clarity, I also Created an S3 bucket in AWS Console with name "mycodebootcampbucket12345" in ca-central-1 region. The proof is attached here:
 
-(Insert Picture of S3 Bucket)
+![S3 Bucket Creation in AWS Console for demonstartion of AWS CLI Installation](assets/week0s3creationinconsole.JPG)
 
 
 To visualise this bucket in AWS CLI, I type following command to list all teh buckets in the AWs Management console:
@@ -34,4 +34,4 @@ aws s3 ls
 
 I was able to successfully Configure my credentials using Command Prompt
 
-Proof that I install and configure AWS CLI Successfully ( Insert Picture)
+![Proof of AWS CLI Installation](assets/week0CLIConfiguration.JPG)

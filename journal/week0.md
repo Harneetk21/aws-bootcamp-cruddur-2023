@@ -47,3 +47,19 @@ I was able to successfully Configure my credentials using Command Prompt
 *** Proof of Budgets Creation
 
 ![I have Creted 2 Budgets:Credtits Spend and $1 Budget](assets/week0BudgetsCreation.JPG)
+
+
+***  Proof of Napkin Design
+
+![Screenshot for the Creation of Conceptual Design on Napkin](assets/Week0ConceptualdesignonNApkin.jpg)
+
+
+*** Proof of Logical Design
+You can find the Replica of my Logical Design [Here](https://lucid.app/lucidchart/4c254668-27be-4bee-9da8-94a5fad8e554/edit?viewport_loc=-780%2C-150%2C1845%2C894%2C0_0&invitationId=inv_71ceed20-1b68-4ead-b4ad-bb2cbac46fe9)
+
+I have also taken screenshot for this Logical Design 
+
+![Logical Crudder Design](assets/Week0LucidChartLogicalDiagram.JPG)
+
+
+

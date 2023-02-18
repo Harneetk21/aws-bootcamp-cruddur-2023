@@ -8,9 +8,11 @@ I have installed AWS CLI in local environment as I was facing issue installing i
 
 Steps to Install AWS CLI on Local Machine (Windows) are as follows:
 
-Go to https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html 
+I refer official [Official AWS CLI Installation page](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html)
 
-Install AWS CLI latest Version: https://awscli.amazonaws.com/AWSCLIV2.msi
+In oredr to install latest versio of AWS CLI click on this [link](https://awscli.amazonaws.com/AWSCLIV2.msi)
+
+
 
 Open Command Prompt on your Local Machine as  an Administrator
 To confirm installation type following command 

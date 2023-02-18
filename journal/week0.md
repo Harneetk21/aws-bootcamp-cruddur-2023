@@ -37,3 +37,13 @@ aws s3 ls
 I was able to successfully Configure my credentials using Command Prompt
 
 ![Proof of AWS CLI Installation](assets/week0CLIConfiguration.JPG)
+
+
+*** Proof of Billing Alarm Creation
+
+![Billing Alarm Creted in AWS Console](assets/week0BillingAlarm.JPG)
+
+
+*** Proof of Budgets Creation
+
+![I have Creted 2 Budgets:Credtits Spend and $1 Budget](assets/week0BudgetsCreation.JPG)

@@ -57,6 +57,8 @@ EXPOSE ${PORT}
 CMD ["npm", "start"]
 
 ```
+Step 3: Run Docker Compose to see the results 
 
+![Proof of Frontend connected with Backend](assets/Week1FrontandBackend.JPG)
 
 

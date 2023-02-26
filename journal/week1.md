@@ -63,5 +63,10 @@ Step 3: Run Docker Compose to see the results
 
 ![Proof of Sign Up as a New User : Harneet](assets/Week1joinnow.JPG)
 
-Step 4
+Step 4: Creating Notification Feature in Crudder App
+
+By throughly watching Andre's Video I am able to successfully add data into 'Notification' Tab
+
+![Proof of added Notification feature to my Crudder App](assets/week1Notificationadded.JPG)
+
 

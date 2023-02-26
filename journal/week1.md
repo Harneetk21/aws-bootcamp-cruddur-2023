@@ -61,4 +61,7 @@ Step 3: Run Docker Compose to see the results
 
 ![Proof of Frontend connected with Backend](assets/Week1FrontandBackend.JPG)
 
+![Proof of Sign Up as a New User : Harneet](assets/Week1joinnow.JPG)
+
+Step 4
 

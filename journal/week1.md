@@ -69,4 +69,7 @@ By throughly watching Andre's Video I am able to successfully add data into 'Not
 
 ![Proof of added Notification feature to my Crudder App](assets/week1Notificationadded.JPG)
 
+Challenge 2: 
+
+As part of next HomeWork I also watch Pick the right Cloud Role Live stream in which I came to know more about main cloud roles, how to build a learning plan, and cover some of the gotcha's, and mistakes to avoid 
 

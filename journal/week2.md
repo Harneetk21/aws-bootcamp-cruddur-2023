@@ -9,3 +9,6 @@ Earlier I installed it on my local machine in week0
 
 ![Proof of AWS CLI Credentials saved on Gitpod.io](assets/week2CLIongitpod.JPG)
 
+## Resuming my Work on Week 2
+
+I am watching Live session and started working as per instructions given in the class

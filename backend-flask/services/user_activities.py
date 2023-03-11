@@ -1,7 +1,8 @@
 from datetime import datetime, timedelta, timezone
 class UserActivities:
   def run(user_handle):
-    
+    # x-ray
+    segment= xray_recorder.begin_sengment('user_activities')
     model = {
       'errors': None,
       'data': None
@@ -21,4 +22,13 @@ class UserActivities:
         'expires_at': (now + timedelta(days=31)).isoformat()
       }]
       model['data'] = results
+
+      subsegment= xray_recorder.begin_subsegment('mock-data')
+
+      # x-ray
+      dict = {
+        "now" : isoformat(),
+        "results-size" : len(model['data'])
+      }
+      subsegment.put_metadata('key', dict, 'namespace')
     return model

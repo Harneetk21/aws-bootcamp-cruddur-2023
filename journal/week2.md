@@ -35,3 +35,8 @@ Rollbar service works fine for me and I am able to successfully perform error lo
 
 ![Proof of Rollbar generating Error Logging](assets/week2rollbar.JPG)
 
+### Challenge 4: Install WatchTower and write a custom logger to send application log data to - CloudWatch Log group
+
+Though I am able to configure watchtower in Gitpod but still I am facing challenge in writing a custom logger to send my application log data to cloudwatch.
+I will try it again.
+
